@@ -1,0 +1,39 @@
+@font-face {
+  font-family: norway;
+  src: url(nowayround-regular-webfont.ttf);
+}
+
+body{
+  background-color: #f8ff23;
+  height: 700px;
+  width: 100%;
+  margin-top: -8px;
+  font-family: norway;
+}
+
+.crea{
+  font-family: norway;
+  color: #00ffcc;
+  font-size: 170px;
+}
+
+.nost{
+  font-family: norway;
+  color: #feaaf1;
+  font-size: 170px;
+}
+
+.bio{
+  padding-left: 270px;
+  padding-top: 10px;
+  font-size: 50px;
+  line-height: 0px;
+}
+
+.bioSpace{
+  line-height: 20px;
+}
+
+.skills{
+  padding-left: 270px;
+}
