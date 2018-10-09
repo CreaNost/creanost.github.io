@@ -36,4 +36,32 @@ body{
 
 .skills{
   padding-left: 270px;
+  padding-top: 10px;
+  font-size: 35px;
+}
+
+ul{
+  list-style: none;
+  padding: 0;
+}
+
+.skillNames{
+  color: #00ffcc;
+}
+
+a:visited{
+  color: black;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  color: #00ffcc;
+}
+
+.lang{
+  float: left;
+  padding-right: 75px;
 }
