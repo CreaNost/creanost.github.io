@@ -82,3 +82,11 @@ a:hover{
   height: 40px;
   padding-bottom: 10px;
 }
+
+.panel{
+  width: 500px;
+  height: 500px;
+  background-color: #00ffcc;
+  border-radius: 25px;
+  color: #feaaf1;
+}
